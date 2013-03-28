@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/bill/projects/myoctopress/source/_posts'
+let g:netrw_dirhist_2='/home/bill/projects/poker_log/app/controllers'
+let g:netrw_dirhist_3='/home/bill/projects/poker_log/db/migrate'
+let g:netrw_dirhist_4='/home/bill/projects/AWL checker/awl-fetch'
